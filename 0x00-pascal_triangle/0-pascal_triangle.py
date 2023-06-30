@@ -3,7 +3,8 @@
 
 
 def pascal_triangle(n):
-    """Function returns a list of lists of int representing the Pascal’s triangle of n
+    """Function returns a list of lists of int representing the 
+       ≈Pascal’s triangle of n
     Args:
         n (n): size of triangle
     Returns:
