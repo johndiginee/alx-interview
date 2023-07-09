@@ -24,7 +24,7 @@ def canUnlockAll(boxes):
                         keys[j] = True
                     boxes[i] = None
 
-        if not (len(keys) > n_keys):
+        if not (len(keys) > Nkeys):
             break
 
     if Nkeys == len(boxes):
